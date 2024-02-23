@@ -1,4 +1,4 @@
-# Project Name:Data Scraping and Mapping for ML and Data Science Professionals in India
+# Data Scraping and Mapping for ML and Data Science Professionals in India
 
 ## Overview:
 This project aims to scrape LinkedIN profiles of professionals working in the fields of Machine Learning (ML) and Data Science across India and visualize their locations on a map using Power Automate and Power BI. By aggregating and mapping this data, the project provides insights into the geographical distribution of ML and Data Science talent in India.
